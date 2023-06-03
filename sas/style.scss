@@ -14,12 +14,14 @@ body {
 }
 
 .wrapper {
+	margin-top: 20px;
 	width: 800px;
 	background-color: #fff;
 	box-shadow: 0 0 10px #333;
 }
 
 .header {
+
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-start;
